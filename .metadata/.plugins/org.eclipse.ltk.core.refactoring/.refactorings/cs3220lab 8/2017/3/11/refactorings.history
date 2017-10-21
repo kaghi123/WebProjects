@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;rates.txt&apos; to &apos;WEB-INF&apos;&#x0D;&#x0A;- Original project: &apos;cs3220lab 8&apos;&#x0D;&#x0A;- Destination element: &apos;WEB-INF&apos;&#x0D;&#x0A;- Original element: &apos;rates.txt&apos;" description="Copy file" element1="WebContent/WEB-INF/rates.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1489464935957" target="/cs3220Lab 13/WebContent/WEB-INF" units="0" version="1.0"/>
+</session>

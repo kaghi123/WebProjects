@@ -1,0 +1,8 @@
+1492482954945	Move 'AddDepartment.html' to 'WEB-INF'
+1492482956692	Move 'AddFaculty.html' to 'WEB-INF'
+1492482958226	Move 'DisplayFaculty.html' to 'WEB-INF'
+1492483034409	Rename resource 'AddDepartment.html'
+1492483041603	Rename resource 'AddFaculty.html'
+1492483049196	Rename resource 'DisplayFaculty.html'
+1492488474573	Move 'DisplayFaculty.sql' to 'WEB-INF'
+1492488720986	Move 'DisplayFaculty.sql' to 'WebContent'

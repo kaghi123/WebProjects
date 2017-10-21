@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+body {background-color: #D3D3D3;}
+
+#mainT {text-align: center;
+color: blue;
+text-transform: uppercase;
+}
+
+#second {text-align: center;}
+
+p {text-indent: 50px;
+line-height: 30px;
+}
+
+#copy {text-align: center;}
+
+strong.mono{font-family: monospace;}
+
+em {font-weight: bold;}

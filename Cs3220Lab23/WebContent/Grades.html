@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Grades</title>
+<style>
+  td { text-align: center;}
+</style>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+$(function(){
+	
+$("td").dblclick(function(){
+		var val = $(this).text();
+		$(this).html("<input type='text' id='temp' value='" + val + "' /> ");
+			
+		var id = $(this).attr("id");
+		
+		$("#" + id ).blur(function(){
+						
+		$.remove("#" + id );
+		$(this).text(val)
+		});
+	});	
+});
+</script>
+</head>
+<body>
+<table border="1">
+<tr><th>Name</th><th>Homework 1</th><th>Homework 2</th><th>Grade</th></tr>
+<tr><td>John</td><td>90</td><td>80</td><td>B</td></tr>
+<tr><td>Jane</td><td>90</td><td>100</td><td>A</td></tr>
+</table>
+</body>
+</html>

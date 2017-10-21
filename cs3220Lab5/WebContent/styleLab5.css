@@ -1,0 +1,63 @@
+table{
+	border-collapse: collapse;
+}
+th {
+	border-bottom: 3px solid black;
+}
+
+td:nth-child(2){
+	border-bottom: 1px solid;
+}
+
+td:nth-child(3){
+	border-bottom: 1px solid;
+}
+
+tr:nth-child(3) {
+	border-bottom: double;
+}
+
+tr:nth-child(5) {
+	border-bottom: double;
+}
+
+tr:last-child {
+	border-bottom: double;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+#main {
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	display: block;
+}
+
+ul {
+	list-style-type: none;
+	
+}
+
+li {
+	padding: 0 0 15px 0;
+}
+
+select.department {
+	margin-left: 43px;
+}
+
+input.name{
+	margin-left: 80px;
+}
+
+input.email{
+	margin-left: 80px;
+}
+
+input.chair{
+	margin-left: 40px;
+}

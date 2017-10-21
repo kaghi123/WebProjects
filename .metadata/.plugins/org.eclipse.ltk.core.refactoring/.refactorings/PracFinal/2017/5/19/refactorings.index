@@ -1,0 +1,8 @@
+1494525116355	Rename resource 'AddContact.html'
+1494525123617	Rename resource 'ContactList.html'
+1494525131097	Rename resource 'ViewContact.html'
+1494525299767	Delete element
+1494526493218	Move 'AddContact.jsp' to 'WEB-INF'
+1494526494615	Move 'ContactList.jsp' to 'WEB-INF'
+1494526496053	Move 'ViewContact.jsp' to 'WEB-INF'
+1494529071728	Rename resource 'Contacts.sql'

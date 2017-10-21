@@ -1,0 +1,82 @@
+#header{
+	border: 1px solid;
+	position: fixed;
+	left: 5px;
+	top: 0px;
+	width: 99.5%;
+	background-color: white;
+}
+
+#content{
+	padding-top: 100px;
+}
+
+#links{
+	border: 1px solid;
+}
+
+#ad1{
+	background-color: yellow;
+	width: 60%;
+	height: 200px;
+	float: left;
+}
+
+#ad2{
+	background-color: yellow;
+	width: 35%;
+	height: 200px;
+	float: right;
+}
+
+#LdealTitle{
+	
+	margin-top: 30px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid;
+}
+
+#Ldeal{
+	
+	margin-top: 30px;
+	padding: 5px;
+	border: 1px solid;
+	height: 250px;
+}
+
+#TdealTitle{
+	
+	margin-top: 30px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid;
+}
+
+#Tdeal{
+	
+	margin-top: 30px;
+	padding: 5px;
+	border: 1px solid;
+	height: 250px;
+}
+
+#footer{
+	margin-top: 20px;
+	border: 1px solid;
+	width: 100%;
+	padding: 10px 0px;
+	text-align: center;
+	clear: both;
+}
+
+#leftc{
+	float: left;
+	clear: left;
+	width: 60%;
+	padding-bottom: 20px;
+}
+
+#rightc{
+	float: right;
+	clear: right;
+	width: 35%;
+}
